@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@hyphen/openfeature-server-provider": "^1.0.1",
+    "@openfeature/server-sdk": "^1.17.0"
+  }
+}
